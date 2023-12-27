@@ -22,6 +22,7 @@ public class DivisibleChecker {
                 System.out.println("The first number is not divisible by the second number");
             }
             // cobadah
+            // wowowowo
         }
     }
 }
